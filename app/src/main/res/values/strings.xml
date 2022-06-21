@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraX_example</string>
+    <string name="permission_denied">required permission</string>
+</resources>
